@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('chart-app App', () => {
+describe('super-basket App', () => {
   let page: AppPage;
 
   beforeEach(() => {
